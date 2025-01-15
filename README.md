@@ -32,7 +32,8 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
  
 
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="🇮🇩 NASIONAL 🇮🇩", Liga BRI 3
+ 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR fta
 https://mantul.biz.id:443/inetwork/gayanet12/60.ts 
  
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV HD
