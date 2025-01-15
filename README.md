@@ -122,3 +122,29 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
 https://cdnjkt4.transvision.co.id:1004/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+
+
+#EXTINF:-1 tvg-ID="astrosupersport.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 1" tvg-logo="" group-title="Malaysia", ASTRO SUPERSPORTS 1
+http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/40598
+#EXTINF:-1 tvg-ID="astrosupersport.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 1 HD" tvg-logo="" group-title="Malaysia", ASTRO SUPERSPORTS 1 HD
+http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/19170
+#EXTINF:-1 tvg-ID="" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 1 UHD" tvg-logo="" group-title=" Malaysia", ASTRO SUPERSPORTS 1 UHD
+http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/124494
+#EXTINF:-1 tvg-ID="astrosupersport2.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 2" tvg-logo="" group-title=" Malaysia", ASTRO SUPERSPORTS 2
+http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/40599
+#EXTINF:-1 tvg-ID="astrosupersport2.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 2 HD" tvg-logo="" group-title="Malaysia", ASTRO SUPERSPORTS 2 HD
+http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/19171
+#EXTINF:-1 tvg-ID="" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 2 UHD" tvg-logo="" group-title=" Malaysia", ASTRO SUPERSPORTS 2 UHD
+http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/132321
+#EXTINF:-1 tvg-ID="astrosupersport3.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 3" tvg-logo="" group-title="Malaysia", ASTRO SUPERSPORTS 3
+http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/40600
+#EXTINF:-1 tvg-ID="astrosupersport3.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 3 HD" tvg-logo="" group-title=" Malaysia", ASTRO SUPERSPORTS 3 HD
+http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/19172
+#EXTINF:-1 tvg-ID="astrosupersport4.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 4" tvg-logo="" group-title=" Malaysia",ASTRO SUPERSPORTS 4
+http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/40601
+#EXTINF:-1 tvg-ID="astrosupersport4.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 4 HD" tvg-logo="" group-title=" Malaysia", ASTRO SUPERSPORTS 4 HD
+http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/19173
+
+
+
+
