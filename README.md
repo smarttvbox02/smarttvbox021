@@ -43,6 +43,15 @@ https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/931
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji fta
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
  
 #EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="🇮🇩 NASIONAL 🇮🇩", MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
