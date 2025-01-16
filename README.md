@@ -68,8 +68,7 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
  
 #EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://i.ibb.co/48nTMzT/transtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",TransTV HD
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/929
  
  
  
