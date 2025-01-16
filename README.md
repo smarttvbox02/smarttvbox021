@@ -950,28 +950,7 @@ https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1 3
 http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1 4
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/indosiar
- 
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1 5
-http://xtv.ooo:8080/88654455/97543255/350972
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1 6
-https://play1nm.hnyongshun.cn/live/ballbar_16890.m3u8
-#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1 7
-https://play1nm.hnyongshun.cn/live/ballbar_24840.m3u8
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1 8
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
-#EXTINF:-1 group-title="Moji sport" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",Moji sport 1
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji
-
-
-
-#EXTINF:-1 group-title="Moji sport" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",Moji sport 2
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji2
-
-
-
-#EXTINF:-1 group-title="Moji sport" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",Moji sport 3
-https://raw.githubusercontent.com/jawaionline/jawaionline/main/live/moji3
 
