@@ -120,7 +120,9 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
 https://cdnjkt4.transvision.co.id:1004/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
-
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title=" 🏀voly 🏀",hilsstate vs redspark
+#EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
+https://hotlivezz179569584.akainu.xyz/zNo0Oq4VSTWIWDRf7jyHVw/Fv2lucGIbhPi2caWYvF5Lg/1737559226495/live/chaHD/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT",SPORSTAR_2_HD.
 http://extraott.com/live/6945574629/7169628753/400200724.ts
