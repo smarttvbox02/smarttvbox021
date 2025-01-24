@@ -64,13 +64,9 @@ https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
  
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png", Trans7 hd
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
+
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png", Trans7 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/35
  
 #EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://i.ibb.co/48nTMzT/transtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",TransTV HD
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/929
