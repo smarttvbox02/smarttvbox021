@@ -955,6 +955,4 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="🇮🇩 tes 🇮🇩"catchup="", Moji
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd?hdntl=exp=1737775632~acl=%2fvp9%2f204_stream.mpd!%2fvp9%2f204%2f*!%2fvp9%2f*%2f204_stream.mpd!%2fvp9%2f*%2f204%2f*~id=160887842~data=hdntl~hmac=19f292af326e9a801a01d33f2f782df7c4451ce0d293b9d3bb78ea066f4a6174
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd?hdntl=exp=1737779856~acl=%2fvp9%2f204_stream.mpd!%2fvp9%2f204%2f*!%2fvp9%2f*%2f204_stream.mpd!%2fvp9%2f*%2f204%2f*~id=160887842~data=hdntl~hmac=54359628c11d9ae2d9a7e589197fcff2c83fbcc608b92ca851d87d75ea102962
