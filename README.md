@@ -953,8 +953,11 @@ http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1 8
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="💥 LIVE 💥",ChampionsTV 1.mpd(ott.nav)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=17938&type=drm
+https://surf.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="🇮🇩 tes 🇮🇩"catchup="", Moji
-#EXTVLCOPT:http-referrer=
-https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd?hdntl=exp=1737779856~acl=%2fvp9%2f204_stream.mpd
