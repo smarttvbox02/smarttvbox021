@@ -26,7 +26,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XW1NSrF/inews.png" group-title="🇮🇩 NASIONAL 🇮🇩", iNews hd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cyev.my.id/teleandaikautau/fuckiptv.mpd?id=4&auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMjMsInVzZXJuYW1lIjoidGVzdHVzZXIiLCJpcCI6IjEwMy4xNjQuMTcyLjExMyIsImV4cCI6MTczNzg5MTA4Nn0.orLH3eIVe92yP6EVMtQ_XwecxDThZJ05ceKRK6lpyFo
