@@ -3,7 +3,14 @@
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
  
- 
+ #KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="🇮🇩 NASIONAL 🇮🇩",RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cyev.my.id/teleandaikautau/fuckiptv.mpd?id=1&auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMjMsInVzZXJuYW1lIjoidGVzdHVzZXIiLCJpcCI6IjEwMy4xNjQuMTcyLjExMyIsImV4cCI6MTczNzg5MTA4Nn0.orLH3eIVe92yP6EVMtQ_XwecxDThZJ05ceKRK6lpyFo
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
  
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png"group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
