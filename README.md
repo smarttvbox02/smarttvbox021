@@ -970,9 +970,9 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 
 #EXTINF:-1 tvg-id="115" group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-l.png" ch-number="115", Soccer Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://sritv.serv00.net/red/play.m3u8?id=205&type=mpd
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205_stream.mpd?hdntl=exp=1737993304~acl=%2fvp9%2f205_stream.mpd!%2fvp9%2f205%2f*!%2fvp9%2f*%2f205_stream.mpd!%2fvp9%2f*%2f205%2f*~id=169970473~data=hdntl~hmac=c88c51203e4b2922be1e8e78f1bcd92a27808283322b6e0fe2a223a89fb1fb4e
 
 
 
