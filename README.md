@@ -135,45 +135,6 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
 https://cdnjkt4.transvision.co.id:1004/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title=" 🏀voly 🏀",hilsstate vs redspark
-#EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
-https://hotlivezz179569584.akainu.xyz/zNo0Oq4VSTWIWDRf7jyHVw/Fv2lucGIbhPi2caWYvF5Lg/1737559226495/live/chaHD/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT",SPORSTAR_2_HD.
-http://extraott.com/live/6945574629/7169628753/400200724.ts
-
-
-#EXTINF:-1 tvg-ID="astrosupersport.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 1" tvg-logo="" group-title="SPORT", ASTRO SUPERSPORTS 1
-http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/40598
-#EXTINF:-1 tvg-ID="astrosupersport.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 1 HD" tvg-logo="" group-title="SPORT", ASTRO SUPERSPORTS 1 HD
-http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/19170
-
-#EXTINF:-1 tvg-ID="astrosupersport2.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 2" tvg-logo="" group-title="SPORT", ASTRO SUPERSPORTS 2
-http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/40599
-#EXTINF:-1 tvg-ID="astrosupersport2.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 2 HD" tvg-logo="" group-title="SPORT", ASTRO SUPERSPORTS 2 HD
-http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/19171
-
-#EXTINF:-1 tvg-ID="astrosupersport3.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 3" tvg-logo="" group-title="SPORT", ASTRO SUPERSPORTS 3
-http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/40600
-#EXTINF:-1 tvg-ID="astrosupersport3.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 3 HD" tvg-logo="" group-title="SPORT", ASTRO SUPERSPORTS 3 HD
-http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/19172
-#EXTINF:-1 tvg-ID="astrosupersport4.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 4" tvg-logo="" group-title="SPORT",ASTRO SUPERSPORTS 4
-http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/40601
-#EXTINF:-1 tvg-ID="astrosupersport4.my" tvg-name="VIP MLZ: ASTRO SUPERSPORTS 4 HD" tvg-logo="" group-title="SPORT", ASTRO SUPERSPORTS 4 HD
-http://world-iptv.net:8080/qgngN9GBAqTf/gzBEtwnP1MX6/19173
-
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SPORT",Sony Sports 1 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SPORT",Sony Sports 2 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/192.ts
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORT",Sony Sports 3 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
-#EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORT",Sony Sports 4 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SPORT",Sony Sports 5 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
-
-
 
 
 
@@ -515,6 +476,60 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Sunna_TV
+
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM", UseePrime
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useephoto_big.png" group-title="MAXSTREAM", Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_useeprime_big1.png" group-title="MAXSTREAM",Usee Prime
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1eg" group-title="MAXSTREAM",Usee Photo
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",Ruang Trampil
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1eg" group-title="MAXSTREAM",METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1eg" roup-title="MAXSTREAM",JAK TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1eg" group-title="MAXSTREAM",KOMPAS TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",JTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",TV Edukasi
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
+#EXTINF:0 tvg-id="rtvint" group-title="MAXSTREAM",RTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",MCC
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9430f215-8ccb-4322-affd-6dbc97e259bd)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",Magna TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",Channel 4U
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",The Indonesia Channel
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",Dunia Games TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",DIGIONE MAXSTREAM
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",SEA TODAY
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://carrvxi-my.sharepoint.com/:i:/g/personal/irzkusuma_my365_id/EZp-YkDwvN1JuHPR7pNZj8wBffNJTRWS4BvBz6Rvjpk00Q?e=O0We1e" group-title="MAXSTREAM",RODJA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title="TV National",Indonesiana TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
@@ -967,9 +982,6 @@ http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1 8
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
-#EXTINF:-1 tvg-id="Lokal" tvg-logo="https://cok.my.id/haha.jpg"  group-title="OXYGEN",Indosiar
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux; Android 13) ExoPlayerLib/2.18.1
-https://bewe.biz.id/babi/bewedong.m3u8?ch=indosiar
 
 
 
