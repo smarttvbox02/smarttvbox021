@@ -2,7 +2,8 @@
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
- 
+#EXTINF:-1 tvg-logo="https://iili.io/JMp36xI.png" group-title="🇮🇩 NASIONAL 🇮🇩", RCTI  
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
  
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png"group-title="🇮🇩 NASIONAL 🇮🇩", MNCTV HD
