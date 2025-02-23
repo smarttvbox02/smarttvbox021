@@ -798,110 +798,7 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
 
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
-https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_fightsport_ver1.png",FIGHT SPORTS
-https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
-https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
-https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
-https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_rodjatv_small1.png?v=2.0.0.13",RODJA TV
-https://cdn09jtedge.indihometv.com/joss/130/rodjatv/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
-https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13",TV9
-https://cdn09jtedge.indihometv.com/joss/130/tv9/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
-https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
-https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png",GALAXY PREMIUM
-https://cdn09jtedge.indihometv.com/joss/133/galaxypremium/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_galaxy_small.png",GALAXY
-https://cdn09jtedge.indihometv.com/joss/133/galaxy/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
-https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png",CELESTIAL MOVIE
-https://cdn09jtedge.indihometv.com/joss/130/celestialmovie/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA
-https://cdn09jtedge.indihometv.com/joss/133/mycinema/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_cinemaworldnew_small.png",CINEMAWORLD
-https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC INDONESIA
-https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png",CNN INTERNATIONAL
-https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png",TVN
-https://cdn09jtedge.indihometv.com/joss/133/tvn/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_history_ver3.png",HISTORY
-https://cdn09jtedge.indihometv.com/joss/133/history/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
-https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
-https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13",ONE
-https://cdn09jtedge.indihometv.com/joss/133/sone/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_kix_ver1.png",KIX
-https://cdn09jtedge.indihometv.com/joss/133/kix/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_kungfutv_small.png",KUNGFU TV
-https://cdn09jtedge.indihometv.com/joss/130/kungfutv/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13",GEM
-https://cdn09jtedge.indihometv.com/joss/133/sgem/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_zhejiang_small.png",ZHEJIANG TV
-https://cdn09jtedge.indihometv.com/joss/130/zhejiang/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_shenzen_small.png",SHENZEN TV
-https://cdn09jtedge.indihometv.com/joss/130/shenzen/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",CARTOON NETWORK
-https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",HOREE
-https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
-https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_techstorm_ver1.png",TECHSTORM
-https://cdn09jtedge.indihometv.com/joss/133/techstorm/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
-https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_pandatv_small.png",PANDA TV
-https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",ASIA FOOD NETWORK
-https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_hgtv_ver1.png",HGTV
-https://cdn09jtedge.indihometv.com/joss/133/hg/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_eatgo_small1.png?v=2.0.0.13",EAT&GO
-https://cdn09jtedge.indihometv.com/joss/134/eatgo/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_citradangdut_ver1.png",CITRA DANGDUT
-https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
-https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_nickjr_ver1.png",NICKJR
-https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_net_ver1.png",NET
-https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
-https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
-https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
-https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
-https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
-https://cdn09jtedge.indihometv.com/joss/194/discoveryasia/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_duniaanak_small1.png?v=2.0.0.13",DUNIA ANAK
-https://cdn09jtedge.indihometv.com/joss/130/duniaanak/index.m3u8
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
-https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
-#EXTINF:-1 group-title="Indihome"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
-https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
+
 
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://i.imgur.com/oM2YSxv.jpeg",BRI LIGA 1
 https://mantul.biz.id:443/live/inetwork/gayanet12/60.ts
@@ -913,5 +810,130 @@ http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 
+t.fmlg5-1.fna&oh=00_AfD9rFvT1fbXEUBe7iHFyq1QnXXwkSDry6JdLtqyJO1q2A&oe=663286F6" group-title="WOKO CHANNEL",GEGER GEDEN 3
+https://www.dropbox.com/scl/fi/h90lt3onlbkf2gt319ji3/GEGER-GEDEN-3-__-EPS-47-720P_HD.mp4?rlkey=ghb0tuyjf8mfjhapeugworx9l&dl=1
 
+#EXTINF:-1 tvg-logo="https://scontent.fmlg5-1.fna.fbcdn.net/v/t39.30808-6/278334782_102716199080592_8817128080672965712_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEn5hNKsHiaKmGV4t7IEFLsRiJeLdg3ewpGIl4t2Dd7CiTgz84UCnYXwhW0xCeVr5HPp3upIFPWmfST90kOUJYD&_nc_ohc=qpsfUeEm0CoQ7kNvgFY7sbK&_nc_ht=scontent.fmlg5-1.fna&oh=00_AfD9rFvT1fbXEUBe7iHFyq1QnXXwkSDry6JdLtqyJO1q2A&oe=663286F6" group-title="WOKO CHANNEL",PIKON
+https://www.dropbox.com/scl/fi/1n257sa62wak14t8lu6tp/PIKON-__-EPS-73-720P_HD.mp4?rlkey=zlrefpfwc3tccyq596irkvk9x&dl=1
+
+#EXTINF:-1 tvg-logo="https://scontent.fmlg5-1.fna.fbcdn.net/v/t39.30808-6/278334782_102716199080592_8817128080672965712_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEn5hNKsHiaKmGV4t7IEFLsRiJeLdg3ewpGIl4t2Dd7CiTgz84UCnYXwhW0xCeVr5HPp3upIFPWmfST90kOUJYD&_nc_ohc=qpsfUeEm0CoQ7kNvgFY7sbK&_nc_ht=scontent.fmlg5-1.fna&oh=00_AfD9rFvT1fbXEUBe7iHFyq1QnXXwkSDry6JdLtqyJO1q2A&oe=663286F6" group-title="WOKO CHANNEL",RONDA-SAHUR
+https://www.dropbox.com/scl/fi/z09xe55ak4hgktd5yeci1/RONDA-SAHUR-PAKAI-SOUND-SYSTEM-__-GOLEK-TAKJIL-DI-TADARUSAN-__-EPS-1-720P_HD.mp4?rlkey=l7ppjrih6us6ml24rtygtf9i6&dl=1
+
+=============================================================================================================
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/CJVWnw6/Mana-Tahaaan-1979.jpg" group-title="WarKop DKI", Warkop DKI Reborn 4
+https://koceng.nofendraedi.workers.dev/WK4.mp4
+
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/CJVWnw6/Mana-Tahaaan-1979.jpg" group-title="WarKop DKI", Mana Tahaaan… (1979)
+https://hadeh.pitoyoabdi.workers.dev/Mana%20Tahan%20(1979).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DtMGyYs/Gengsi-Dong-1980.jpg" group-title="WarKop DKI", Gengsi Dong (1980)
+https://hadeh.pitoyoabdi.workers.dev/Gengsi%20Dong%20(1980).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xG2Z1hP/Pintar-Pintar-Bodoh-1980.jpg" group-title="WarKop DKI", Pintar Pintar Bodoh (1980) 
+https://hadeh.pitoyoabdi.workers.dev/Pintar%20Pintar%20Bodoh%20(1980).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/c1cCZ3Q/Ge-Er-Gede-Rasa-1980.jpg" group-title="WarKop DKI", GeEr – Gede Rasa (1980)
+https://hadeh.pitoyoabdi.workers.dev/geer-gede-rasa-1980.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2KgGTqt/Manusia-6-000-000-Dollar-1981.jpg" group-title="WarKop DKI", Manusia 6.000.000 Dollar (1981)
+https://hadeh.pitoyoabdi.workers.dev/Manusia%206%20Juta%20Dolar.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/LCXTcrn/IQ-Jongkok-1981.jpg" group-title="WarKop DKI", IQ Jongkok (1981)
+https://hadeh.pitoyoabdi.workers.dev/IQ%20Jongkok%20(1981).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/kx1Ps5L/Setan-Kredit-1981.jpg" group-title="WarKop DKI", Setan Kredit (1981)
+https://hadeh.pitoyoabdi.workers.dev/Setan.Kredit.1982.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/BgJcF32/Dongkrak-Antik-1982.jpg" group-title="WarKop DKI", Dongkrak Antik (1982)
+https://hadeh.pitoyoabdi.workers.dev/Dongkrak%20Antik%20(1982).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7nwGy3D/Chips-1982.jpg" group-title="WarKop DKI", Chips (1982) 
+https://hadeh.pitoyoabdi.workers.dev/CHIPS.1982.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/J2mrDzv/Maju-Kena-Mundur-Kena-1983.jpg" group-title="WarKop DKI", Maju Kena Mundur Kena (1983) 
+https://hadeh.pitoyoabdi.workers.dev/Maju.Kena.Mundur.Kena.1983.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/JQhFTX6/Pokoknya-Beres-1983.jpg" group-title="WarKop DKI", Pokoknya Beres (1983)
+https://hadeh.pitoyoabdi.workers.dev/Pokoknya%20beres%20(1983).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/M86wDjF/Itu-Bisa-Diatur-1984.jpg" group-title="WarKop DKI", Itu Bisa Diatur (1984)
+https://hadeh.pitoyoabdi.workers.dev/Itu%20Bisa%20Diatur%20(1984).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gJHfjQ8/Tahu-Diri-Dong-1984.jpg" group-title="WarKop DKI", Tahu Diri Dong (1984)
+https://hadeh.pitoyoabdi.workers.dev/tahu-diri-dong-1984.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nPNgFrD/Kesempatan-Dalam-Kesempitan-1985.jpg" group-title="WarKop DKI", Kesempatan Dalam Kesempitan (1985) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Kesempatan%20Dalam%20Kesempitan%20(1985).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/3rLJ1Rt/Gantian-Dong-1985.jpg" group-title="WarKop DKI", Gantian Dong (1985)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Gantian%20Dong%20(1985).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gvYrfGB/Atas-Boleh-Bawah-Boleh-1986.jpg" group-title="WarKop DKI", Atas Boleh Bawah Boleh (1986)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Atas.Boleh.Bawah.Boleh.1986.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DGZ8cxv/Sama-Juga-Bohong-1986.jpg" group-title="WarKop DKI", Sama Juga Bohong (1986)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sama.Juga.Bohong.1986.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/khrxjFp/Depan-Bisa-Belakang-Bisa-1987.jpg" group-title="WarKop DKI", Depan Bisa Belakang Bisa (1987)
+https://hadeh.pitoyoabdi.workers.dev/Depan.Bisa.Belakang.Bisa.1987.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vV4sSM2/Makin-Lama-Makin-Asyik-1987.jpg" group-title="WarKop DKI", Makin Lama Makin Asyik (1987)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Makin%20Lama%20Makin%20Asyik%20(1987).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/NsZw7YG/Saya-Suka-Kamu-Punya-1987.jpg" group-title="WarKop DKI", Saya Suka Kamu Punya (1987)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Saya.Suka.Kamu.Punya.1987.mkv
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/TBf9ZtS/Jodoh-Boleh-Diatur-1988.jpg" group-title="WarKop DKI", Jodoh Boleh Diatur (1988)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Jodoh%20Boleh%20Diatur%20(1988).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/1qR5YHs/Malu-Malu-Mau-1988.jpg" group-title="WarKop DKI", Malu-Malu Mau (1988)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Malu.Malu.Mau.1988.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/cX8wRLZ/Godain-Kita-Dong-1989.jpg" group-title="WarKop DKI", Godain Kita Dong (1989)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Godain%20Kita%20Dong%20(1989).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mbqHrCM/Sabar-Dulu-Doong-1989.jpg" group-title="WarKop DKI", Sabar Dulu Doong…! (1989)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sabar%20Dulu%20Dong%20(1989).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/R01JKV9/Mana-Bisa-Tahan-1990.jpg" group-title="WarKop DKI", Mana Bisa Tahan (1990)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Mana%20bisa%20tahan%20(1990).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mGLqWr0/Sudah-Pasti-Tahan-1991.jpg" group-title="WarKop DKI", Sudah Pasti Tahan (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sudah%20Pasti%20Tahan%20(1991).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zrLrZZf/Bisa-Naik-Bisa-Turun-1991.jpg" group-title="WarKop DKI", Bisa Naik Bisa Turun (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bisa.Naik.Bisa.Turun.1992.mkv
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/72RnJp0/Lupa-Aturan-Main-1991.jpg" group-title="WarKop DKI", Lupa Aturan Main (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Lupa%20Aturan%20Main%20(1990).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/t886WQ5/Masuk-Kena-Keluar-Kena-1992.jpg" group-title="WarKop DKI", Masuk Kena Keluar Kena (1992)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Masuk%20Kena%20Keluar%20Kena%20(1992).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/27qNJNT/Salah-Masuk-1992.jpg" group-title="WarKop DKI", Salah Masuk (1992)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Salah%20Masuk%20(1992).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8cdZwgg/Bebas-Aturan-Main-1993.jpg" group-title="WarKop DKI", Bebas Aturan Main (1993)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bebas%20Aturan%20Main%20(1993).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2nWKQTY/Bagi-Bagi-Dong-1993.jpg" group-title="WarKop DKI", Bagi-Bagi Dong (1993)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bagi-Bagi%20Dong%20(1993).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/b2YrZmZ/Saya-Duluan-Dong-1994.jpg" group-title="WarKop DKI", Saya Duluan Dong (1994) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Saya%20Duluan%20Dong%20(1994).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/L9VHFh7/Pencet-Sana-Pencet-Sini-1994.jpg" group-title="WarKop DKI", Pencet Sana Pencet Sini (1994) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Pencet%20Sana%20Pencet%20Sini%20(1994).mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="Warkop DKI",Makin Lama Makin Asyik
+https://www.googleapis.com/drive/v3/files/1pPqGqc_aFQuAGB87cgKBkLaXvM76e_f1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="Warkop DKI",Mana Bisa Tahan
+https://www.googleapis.com/drive/v3/files/1n9ZYDxtLdRVFEth3P_opwEb5pU8vkoGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="Warkop DKI",Pencet Sana Pencet Sini
+https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
