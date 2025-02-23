@@ -810,14 +810,7 @@ http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
 
-t.fmlg5-1.fna&oh=00_AfD9rFvT1fbXEUBe7iHFyq1QnXXwkSDry6JdLtqyJO1q2A&oe=663286F6" group-title="WOKO CHANNEL",GEGER GEDEN 3
-https://www.dropbox.com/scl/fi/h90lt3onlbkf2gt319ji3/GEGER-GEDEN-3-__-EPS-47-720P_HD.mp4?rlkey=ghb0tuyjf8mfjhapeugworx9l&dl=1
 
-#EXTINF:-1 tvg-logo="https://scontent.fmlg5-1.fna.fbcdn.net/v/t39.30808-6/278334782_102716199080592_8817128080672965712_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEn5hNKsHiaKmGV4t7IEFLsRiJeLdg3ewpGIl4t2Dd7CiTgz84UCnYXwhW0xCeVr5HPp3upIFPWmfST90kOUJYD&_nc_ohc=qpsfUeEm0CoQ7kNvgFY7sbK&_nc_ht=scontent.fmlg5-1.fna&oh=00_AfD9rFvT1fbXEUBe7iHFyq1QnXXwkSDry6JdLtqyJO1q2A&oe=663286F6" group-title="WOKO CHANNEL",PIKON
-https://www.dropbox.com/scl/fi/1n257sa62wak14t8lu6tp/PIKON-__-EPS-73-720P_HD.mp4?rlkey=zlrefpfwc3tccyq596irkvk9x&dl=1
-
-#EXTINF:-1 tvg-logo="https://scontent.fmlg5-1.fna.fbcdn.net/v/t39.30808-6/278334782_102716199080592_8817128080672965712_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEn5hNKsHiaKmGV4t7IEFLsRiJeLdg3ewpGIl4t2Dd7CiTgz84UCnYXwhW0xCeVr5HPp3upIFPWmfST90kOUJYD&_nc_ohc=qpsfUeEm0CoQ7kNvgFY7sbK&_nc_ht=scontent.fmlg5-1.fna&oh=00_AfD9rFvT1fbXEUBe7iHFyq1QnXXwkSDry6JdLtqyJO1q2A&oe=663286F6" group-title="WOKO CHANNEL",RONDA-SAHUR
-https://www.dropbox.com/scl/fi/z09xe55ak4hgktd5yeci1/RONDA-SAHUR-PAKAI-SOUND-SYSTEM-__-GOLEK-TAKJIL-DI-TADARUSAN-__-EPS-1-720P_HD.mp4?rlkey=l7ppjrih6us6ml24rtygtf9i6&dl=1
 
 =============================================================================================================
 
@@ -929,11 +922,145 @@ https://hadeh.pitoyoabdi.workers.dev/saringan/Pencet%20Sana%20Pencet%20Sini%20(1
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="Warkop DKI",Makin Lama Makin Asyik
-https://www.googleapis.com/drive/v3/files/1pPqGqc_aFQuAGB87cgKBkLaXvM76e_f1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="Warkop DKI",Mana Bisa Tahan
-https://www.googleapis.com/drive/v3/files/1n9ZYDxtLdRVFEth3P_opwEb5pU8vkoGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="Warkop DKI",Pencet Sana Pencet Sini
-https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+===================================================================================================================================================
+
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yny0E5DaepPQAluPSXj4nsCEW6l.jpg" tvg-name="Dukun (2018)" ,Dukun (2018)
+https://ktpremium.com:443/movie/A0112/8544/509121.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-0SAlZfQGdDM/YMc9w_br0JI/AAAAAAAALzg/fl9MhhT1nEwLmnoq8A3215MahCYdhxWqgCLcBGAsYHQ/s16000/Sumpahan%2BOrang%2BPutih.jpg" tvg-name="Sumpahan Orang Putih (2021) " ,Sumpahan Orang Putih (2021)
+https://ktpremium.com:443/movie/A0112/8544/512249.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNArdjDF13BsiClhMX5XeXXYpVU.jpg" tvg-name="Hantu Air (2012)" ,Hantu Air (2012)
+https://ktpremium.com:443/movie/A0112/8544/513697.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BODNjYjg4MDYtY2Q0YS00ZDBlLWIzYzItMjdiYjZmMzQwOWFiXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" tvg-name="Soal Hati (2000)" ,Soal Hati (2000)
+https://ktpremium.com:443/movie/A0112/8544/513794.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFiNTVlZWItYzViNy00NTkxLWI2MWUtZDcyMWM5YzhhYzg5XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg" tvg-name="Soalnya Siapa? (2002)" ,Soalnya Siapa? (2002)
+https://ktpremium.com:443/movie/A0112/8544/513795.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xVTpWaQXSZojsfMbzJ7PyJgRSd.jpg" tvg-name="Tentang Dia (2005)" ,Tentang Dia (2005)
+https://ktpremium.com:443/movie/A0112/8544/513797.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac2UyNOIJa4EP6lxtUpJXdEwoB0.jpg" tvg-name="Senario Pemburu Emas Yamashita (2006)" ,Senario Pemburu Emas Yamashita (2006)
+https://ktpremium.com:443/movie/A0112/8544/515246.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80tF4DIsEJSxbfEhDrAxrPhlqtc.jpg" tvg-name="Senario The Movie Episode 1 (2008)" ,Senario The Movie Episode 1 (2008)
+https://ktpremium.com:443/movie/A0112/8544/515247.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://3.bp.blogspot.com/_--k65o4zbKg/SVSv5rtKr_I/AAAAAAAAADU/JlscZYY77So/w1200-h630-p-k-no-nu/Ghazal+Untuk+Rabiah.jpg" tvg-name="Ghazal Untuk Rabiah (1997)" ,Ghazal Untuk Rabiah (1997)
+https://ktpremium.com:443/movie/A0112/8544/515248.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnzWT8B3yIfKxFlLH3STOZP5T5.jpg" tvg-name="Senario The Movie Episode 2 Beach Boys (2009)" ,Senario The Movie Episode 2 Beach Boys (2009)
+https://ktpremium.com:443/movie/A0112/8544/515258.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h7TbApRuVEUNd8mUCy5Ez3GAFf.jpg" tvg-name="Senario The Movie: Ops Pocot (2011)" ,Senario The Movie: Ops Pocot (2011)
+https://ktpremium.com:443/movie/A0112/8544/515259.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2021/01/rindu-atok-819x1024.jpg" tvg-name="Rindu Atok (2021)" ,Rindu Atok (2021)
+https://ktpremium.com:443/movie/A0112/8544/515264.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JsOrZqRdmskTyxr52qf9qy43O.jpg" tvg-name="Sabar Ini Ujian (2020)" ,Sabar Ini Ujian (2020)
+https://ktpremium.com:443/movie/A0112/8544/515265.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI7i2ZAXbce5hVeudpMszld1yJw.jpg" tvg-name="Senario Asam Garam (2010)" ,Senario Asam Garam (2010)
+https://ktpremium.com:443/movie/A0112/8544/515268.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3NzAwYWUtM2NmMC00NjhlLTllOTEtMTZjMDkyZGNlN2RjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_QL75_UY281_CR1,0,190,281_.jpg" tvg-name="Papadom (2009)" ,Papadom (2009)
+https://ktpremium.com:443/movie/A0112/8544/515287.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJhMmRiOTAtODE2OC00ZjM5LWEwYjgtNjhjYjcwOTY2ZTJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjkwMDM5MTQ@._V1_FMjpg_UX1000_.jpg" tvg-name="Papadom 2 (2013)" ,Papadom 2 (2013)
+https://ktpremium.com:443/movie/A0112/8544/515288.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghbfCjRQEd6iRJBnBKhdcxGNFk6.jpg" tvg-name="Devil on Top (2021)[NO SUB]" ,Devil on Top (2021)[NO SUB]
+https://ktpremium.com:443/movie/A0112/8544/515514.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60MtV1IT1DOycZRajZOHu9WwaYC.jpg" tvg-name="Jodoh Syaitan (2020)" ,Jodoh Syaitan (2020)
+https://ktpremium.com:443/movie/A0112/8544/515654.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU4eDkX5KvTMJP67YrZJdgViZie.jpg" tvg-name="Sembunyi: Amukan Azazil (2013)" ,Sembunyi: Amukan Azazil (2013)
+https://ktpremium.com:443/movie/A0112/8544/515868.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XssONH4zhRldiG3HHt2WH8xInr.jpg" tvg-name="Mr. Hurt (2017)" ,Mr. Hurt (2017)
+https://ktpremium.com:443/movie/A0112/8544/515872.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KNY1cOhJaK1IayK2MXZ90PGJLj.jpg" tvg-name="44 Hari Bangkitnya Pocong(2021)" ,44 Hari Bangkitnya Pocong(2021)
+https://ktpremium.com:443/movie/A0112/8544/515934.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8tsHaa2xqcCDsMZIZxFEGWR8QF.jpg" tvg-name="Man Laksa (2006)" ,Man Laksa (2006)
+https://ktpremium.com:443/movie/A0112/8544/526350.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-4VygbasdPjg/YM2ko0uf_uI/AAAAAAAAEWg/BarZSKO9grkLa9pANT_1yrAcj4U3UUsMACLcBGAsYHQ/s1454/Telefilem%2BSumpahan%2BOrang%2BPutih%2BAstro%2BCitra.jpg" tvg-name="SOP(2021 )" ,SOP(2021 )
+https://ktpremium.com:443/movie/A0112/8544/537493.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsga7envgXY4SbvtoL7Q03j9dqY.jpg" tvg-name="Kuba Guling Karipap Pusing (2021)[NOSUB]" ,Kuba Guling Karipap Pusing (2021)[NOSUB]
+https://ktpremium.com:443/movie/A0112/8544/538063.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-GfuxiGRX6n0/YPQSUD3H-FI/AAAAAAAAMC0/mzPcpjqEyxgXse7Te3SzoJ2gSqYL8eXxQCLcBGAsYHQ/s16000/Sebelum%2BPulang.jpg" tvg-name="Sebelum Pulang (2021)" ,Sebelum Pulang (2021)
+https://ktpremium.com:443/movie/A0112/8544/538066.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lu7sNI1GAkcwyxJXTjWiDHqvroA.jpg" tvg-name="Estet (2010)" ,Estet (2010)
+https://ktpremium.com:443/movie/A0112/8544/539142.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p41cQbtsak1uY2pf5fDzXZLoFLw.jpg" tvg-name="Eggnoid (2019)" ,Eggnoid (2019)
+https://ktpremium.com:443/movie/A0112/8544/539143.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E2N2JjOGEtZmVjNi00ZmYyLWExNzUtNTIxMTM1NDhlNDhiXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg" tvg-name="Hanya Aku Cinta Kau Seorang (2012)" ,Hanya Aku Cinta Kau Seorang (2012)
+https://ktpremium.com:443/movie/A0112/8544/539144.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-nCZ86Gk-kPg/YPwep1XAFoI/AAAAAAAAMEc/zpA3u7MTGlQQUQcjUwIuB_t9xyaq-pQ9wCLcBGAsYHQ/s16000/Syurga%2BTanpa%2BDosa.jpg" tvg-name="Syurga Tanpa Dosa (2021)" ,Syurga Tanpa Dosa (2021)
+https://ktpremium.com:443/movie/A0112/8544/539145.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUaeW3Cki7BWFJZytT6iXFGFO35.jpg" tvg-name="Delen (2021)[NOSUB]" ,Delen (2021)[NOSUB]
+https://ktpremium.com:443/movie/A0112/8544/539146.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neO0c69wGECyhx7XSUyDFXGgvAX.jpg" tvg-name="Ghibah (2021)[BM]" ,Ghibah (2021)[BM]
+https://ktpremium.com:443/movie/A0112/8544/539160.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72Xk4cjiKy74AINaJ6T0HhRulLz.jpg" tvg-name="Calon Bini (2019)" ,Calon Bini (2019)
+https://ktpremium.com:443/movie/A0112/8544/539173.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-1kYwhUJXfps/YMx1fYep_wI/AAAAAAAAL0c/BH8JbuUO9Kg2zycJlStSEkZW9V61ARarwCLcBGAsYHQ/s16000/Keluarga%2BInstafamous.jpg" tvg-name="Instafamous (2020)" ,Instafamous (2020)
+https://ktpremium.com:443/movie/A0112/8544/539174.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8KmlACEzpnksB416agWtJfejDn.jpg" tvg-name="Lihat Boleh, Pegang Jangan (2010)" ,Lihat Boleh, Pegang Jangan (2010)
+https://ktpremium.com:443/movie/A0112/8544/539175.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjS3xfjGKUiPQ8SQCx1KQGBPg.jpg" tvg-name="Si Manis Jembatan Ancol (2019)" ,Si Manis Jembatan Ancol (2019)
+https://ktpremium.com:443/movie/A0112/8544/539176.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2ASnKKkB7uHhDPGP1yMJ9ql9Dp.jpg" tvg-name="The Buskers(2019)" ,The Buskers(2019)
+https://ktpremium.com:443/movie/A0112/8544/539450.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B8NkCTwSqsGGlWtLpPXabsJ8M3.jpg" tvg-name="Balistik (2014)" ,Balistik (2014)
+https://ktpremium.com:443/movie/A0112/8544/540136.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mNj678xHBgHepGjNBJI6TTon4m.jpg" tvg-name="Misteri Dilaila (2019)" ,Misteri Dilaila (2019)
+https://ktpremium.com:443/movie/A0112/8544/540139.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRrCtUmieLvjDwwMEyBNuB7HpaZ.jpg" tvg-name="Mana Mau Lari (2014)" ,Mana Mau Lari (2014)
+https://ktpremium.com:443/movie/A0112/8544/541364.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-TAOMjOIgE7g/YOcISlUX7JI/AAAAAAAANcM/5-UiPeSSt8os1w8zKv8f6o6Hi00aqp9iACLcBGAsYHQ/s610/rujuk_001.jpg" tvg-name="Rujuk (2021)" ,Rujuk (2021)
+https://ktpremium.com:443/movie/A0112/8544/541365.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzirDRNA3JH7TjjhEMRz5QN8rAx.jpg" tvg-name="Rumah Dara (2010)" ,Rumah Dara (2010)
+https://ktpremium.com:443/movie/A0112/8544/542053.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-R-yy_Lp5ZkU/YRfUb_Ob8aI/AAAAAAAAMJ0/dp1xO9MHdAM800vb0OGDRrn_CfB1u6QsQCLcBGAsYHQ/s16000/Kain%2BKafan%2BBerbisik.jpg" tvg-name="Kain Kafan Berbisik (2021)" ,Kain Kafan Berbisik (2021)
+https://ktpremium.com:443/movie/A0112/8544/542073.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RrxQErJUeVH76YTP9DaceRarcQ.jpg" tvg-name="Aruna dan Lidahnya (2018)" ,Aruna dan Lidahnya (2018)
+https://ktpremium.com:443/movie/A0112/8544/542202.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKVP3tAEhCvtJoHqsbXOaXYg3Ly.jpg" tvg-name="Balada Sepasang Kekasih Gila (2021)" ,Balada Sepasang Kekasih Gila (2021)
+https://ktpremium.com:443/movie/A0112/8544/542203.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzAQlkcndVQgSZktxc7djp1A1lx.jpg" tvg-name="Mama Mama Jagoan (2018)" ,Mama Mama Jagoan (2018)
+https://ktpremium.com:443/movie/A0112/8544/542204.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmqkOPZY7IpteyIrbbqCYKRkktu.jpg" tvg-name="Mendadak Kaya (2019)" ,Mendadak Kaya (2019)
+https://ktpremium.com:443/movie/A0112/8544/542205.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM4YzZkZGUtZTAwZS00Yjk1LTk2MTAtMWRmYjYyZGIyYTRhXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" tvg-name="#Move On Aja (2019)" ,#Move On Aja (2019)
+https://ktpremium.com:443/movie/A0112/8544/542206.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-6YV5M_nh-7o/YE9Ccdsl-KI/AAAAAAAALTQ/u4f4glRzjT4azp2qvSqdoLNcOVa1yu0AwCLcBGAsYHQ/s16000/My%2BFuture%2BHusband.jpg" tvg-name="My Future Husband  (2021)" ,My Future Husband  (2021)
+https://ktpremium.com:443/movie/A0112/8544/542207.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL8Uc8Ub6U6WcMAz9U12n7XQ2Ed.jpg" tvg-name="Oh Baby! (2008)" ,Oh Baby! (2008)
+https://ktpremium.com:443/movie/A0112/8544/542208.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxiDlS5tKpuPHHl4eOLgJCdTqU6.jpg" tvg-name="Pariban : Idola Dari Tanah Jawa (2019)" ,Pariban : Idola Dari Tanah Jawa (2019)
+https://ktpremium.com:443/movie/A0112/8544/542209.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwBWBRt1f44Mggm8ynmBvibQUgt.jpg" tvg-name="Roman Picisan (2010)" ,Roman Picisan (2010)
+https://ktpremium.com:443/movie/A0112/8544/542210.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLlGIbXhDOIWF8u2Ro0VbDwiY2s.jpg" tvg-name="Satu Suro (2019)" ,Satu Suro (2019)
+https://ktpremium.com:443/movie/A0112/8544/542211.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xmRH5TQCImTpZNwr1tZvZ2p0tK.jpg" tvg-name="Tuju Tuju(2021)" ,Tuju Tuju(2021)
+https://ktpremium.com:443/movie/A0112/8544/542212.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vg4uaIoq9de5yby9PqtLVtRM4fJ.jpg" tvg-name="Dimsum Martabak (2018)" ,Dimsum Martabak (2018)
+https://ktpremium.com:443/movie/A0112/8544/542269.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSSc8nWFR1Sz99gnVmGQKaQ8Ww0.jpg" tvg-name="Jelita Sejuba (2018)" ,Jelita Sejuba (2018)
+https://ktpremium.com:443/movie/A0112/8544/542270.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yZHTENK5N6WeHcVmStnz6Ftmgm.jpg" tvg-name="Marriage (2021)" ,Marriage (2021)
+https://ktpremium.com:443/movie/A0112/8544/542271.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEse2ohDZZCYlQNpsaxsgGVd4Wi.jpg" tvg-name="Pesan di Balik Awan (2021)" ,Pesan di Balik Awan (2021)
+https://ktpremium.com:443/movie/A0112/8544/542272.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSmJrx26NLttonxQmO3hvjHa1gF.jpg" tvg-name="Risen (2021)" ,Risen (2021)
+https://ktpremium.com:443/movie/A0112/8544/542273.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9L8dJZtqWHqnq9fhQ8eGClBusA.jpg" tvg-name="1 Lawan Satu (2013)" ,1 Lawan Satu (2013)
+https://ktpremium.com:443/movie/A0112/8544/549687.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vODgo45z5Rd2V0IJFTvgrfkT7g4.jpg" tvg-name="Mangkujiwo (2020)" ,Mangkujiwo (2020)
+https://ktpremium.com:443/movie/A0112/8544/550667.mkv
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC73WhX4lWVFeiSrHKrliRdmjeY.jpg" tvg-name="Janji Zehan (2018)" ,Janji Zehan (2018)
+https://ktpremium.com:443/movie/A0112/8544/583260.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqc5Fhg4F8dba41GPAnSTsRIc8z.jpg" tvg-name="Reunion Z (2018)" ,Reunion Z (2018)
+https://ktpremium.com:443/movie/A0112/8544/586668.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIqXypRTQMFe6N1g95Pe7UA5Ckp.jpg" tvg-name="Arwah Kuntilanak Duyung (2011)" ,Arwah Kuntilanak Duyung (2011)
+https://ktpremium.com:443/movie/A0112/8544/592351.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdR9FyARlWJk1SFXcnF8l3HtnoF.jpg" tvg-name="Keranda Kuntilanak (2011)" ,Keranda Kuntilanak (2011)
+https://ktpremium.com:443/movie/A0112/8544/592352.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eE6P6BkgwuJQ0VEKZiJdqaM47tf.jpg" tvg-name="Kuntilanak Beranak (2009)" ,Kuntilanak Beranak (2009)
+https://ktpremium.com:443/movie/A0112/8544/592353.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zErAEcE3JAZniC10S6cyqLjjnsS.jpg" tvg-name="Pocong vs Kuntilanak (2008)" ,Pocong vs Kuntilanak (2008)
+https://ktpremium.com:443/movie/A0112/8544/592354.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q1NmFhYjctY2MwMi00ZDU0LWFlYzQtNTkyOGNjODA3ZjBkXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg" tvg-name="Aku, Kau dan Dia (2012)" ,Aku, Kau dan Dia (2012)
+https://ktpremium.com:443/movie/A0112/8544/594990.mp4
+#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkcKmLEkFmBb6yRyR5hFC2xScpP.jpg" tvg-name="Janin (2020)" ,Janin (2020)
+https://ktpremium.com:443/movie/A0112/8544/596266.mp4
+
 
