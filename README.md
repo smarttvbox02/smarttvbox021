@@ -53,7 +53,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji2
-http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298550)
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298550
  
 #EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="🇮🇩 NASIONAL 🇮🇩", MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
