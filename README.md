@@ -926,6 +926,71 @@ https://hadeh.pitoyoabdi.workers.dev/saringan/Pencet%20Sana%20Pencet%20Sini%20(1
 
 ===================================================================================================================================================
 
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041163X0-portrait.jpg",Transformers: Rise Of The Beasts 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08a2cb77aee4f2ac04ecd63960968ff5:53297eef65dfb04b4efce81dfbafb850
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454aafd940521074e79d0c_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 type="" group-title="VOD HBO"  tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/02/film-the-amazing-spider-man-2-2014.jpg.webp",The Amazing Spider-Man 2 (2014)
+https://stream.hownetwork.xyz/xxx/amazing-spider-man-2-2014-bluray_X_f0c30052/26/480.m3u8
+https://stream.hownetwork.xyz/xxx/amazing-spider-man-2-2014-bluray/10/480.m3u8
+https://hls2.dewanonton.online/vultr/pXBAKacymiohx/hls-stream.m3u8
+
+#EXTINF:-1 type="" group-title"VOD HBO"  tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-3-2013.jpg.webp",Iron Man 3 (2013)
+https://stream.hownetwork.xyz/xxx/iron-man-3-2013-bluray_X_949313d3/26/480.m3u8
+https://hls2.dewanonton.online/vultr/MiiRLwvhdFmWy/hls-stream.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2016/05/film-thor-2-dark-world-2013.jpg.webp",Thor: The Dark World (2013)
+https://hls2.dewanonton.online/vultr/aZybxywdcAoeB/hls-stream.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO"  tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/02/film-the-avengers-2012.jpg.webp",The Avengers (2012)
+https://stream.hownetwork.xyz/xxx/the-avengers-2012-bluray_X_c2e4973c/26/480.m3u8
+https://hls2.dewanonton.online/vultr/xqYwWXqFvLRDl/hls-stream.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/02/film-the-amazing-spider-man-2012.jpg.webp",The Amazing Spider-Man (2012)
+https://stream.hownetwork.xyz/xxx/amazing-spider-man-2012-bluray_X_ac625d1b/26/480.m3u8
+https://stream.hownetwork.xyz/xxx/amazing-spider-man-2012-bluray/10/480.m3u8
+https://storage.dewanonton.online/hls/586ff2b6-bda4-47d8-90fb-acdcd179d7b0.mp4/index.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO"  tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2016/04/film-thor-2011.jpg.webp",Thor (2011)
+https://stream.hownetwork.xyz/xxx/thor-2011-bluray_X_fada2386/26/480.m3u8
+https://hls2.dewanonton.online/vultr/bdcAAnsREyKNt/hls-stream.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO"  tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-captain-america-the-first-avenger-2011.jpg.webp",Captain America: The First Avenger (2011)
+https://stream.hownetwork.xyz/xxx/captain-america-first-avenger-2011-bluray_X_e7c989c3/26/480.m3u8
+https://hls2.dewanonton.online/vultr/WsQdQjDDducCZ/hls-stream.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO"  tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-2-2010.jpg.webp",Iron Man 2 (2010)
+https://stream.hownetwork.xyz/xxx/iron-man-2-2010-bluray_X_8362c7d8/26/480.m3u8
+https://storage.dewanonton.online/hls/8e6b73bc-21ab-4534-b865-192799619ec3.mp4/index.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO"  tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-2008.jpg.webp",Iron Man (2008)
+https://stream.hownetwork.xyz/xxx/iron-man-2008-bluray_X_f95a8e5c/26/480.m3u8
+https://storage.dewanonton.online/hls/d6ea0d1e-8bd8-465e-becd-a2b229a79e6c.mp4/index.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO"  tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2015/12/film-the-incredible-hulk-2008.jpg.webp",The Incredible Hulk (2008)
+https://stream.hownetwork.xyz/xxx/the-incredible-hulk-2008-bluray/3/480.m3u8
+https://storage.dewanonton.online/hls/ac1ce7df-2cda-417b-b9ba-56d165beecd0.mp4/index.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO"  tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-3-2007.jpg.webp",Spider-Man 3 (2007)
+https://stream.hownetwork.xyz/xxx/spider-man-3-2007-bluray/8/480.m3u8
+https://hls2.dewanonton.online/vultr/keYAbmesKMcPD/hls-stream.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2-2004.jpg.webp",Spider-Man 2 (2004)
+https://stream.hownetwork.xyz/xxx/spider-man-2-2004-bluray_X_109f7c00/26/480.m3u8
+
+#EXTINF:-1 type="" group-title="VOD HBO" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2016/01/film-spider-man-2002.jpg.webp",Spider-Man (2002)
+https://stream.hownetwork.xyz/xxx/spider-man-2002-bluray_X_3dbfb854/26/480.m3u8
+https://hls2.dewanonton.online/vultr/ytAgRbmtHHmNO/hls-stream.m3u8
+
+
+
+#EXTINF:-1 group-title="VOD HBO" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041243X0-portrait.jpg",The Nun Ii 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4063e8388256eeabd2f4efdae7aedd3:12843781a238285c811dcc5a3715e344
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
 #EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041229X0-portrait.jpg",The Super Mario Bros. Movie 2023
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ccf4698050003d7e0e1b7695a6454f7f:b9865f7d2152b176ac241166517e4aec
