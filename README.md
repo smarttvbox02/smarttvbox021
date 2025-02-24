@@ -932,19 +932,19 @@ https://hadeh.pitoyoabdi.workers.dev/saringan/Pencet%20Sana%20Pencet%20Sini%20(1
 #KODIPROP:inputstream.adaptive.license_key=08a2cb77aee4f2ac04ecd63960968ff5:53297eef65dfb04b4efce81dfbafb850
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454aafd940521074e79d0c_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 type="" group-title="VOD HBO"  tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/02/film-the-amazing-spider-man-2-2014.jpg.webp",The Amazing Spider-Man 2 (2014)
+#EXTINF:-1 type="" group-title="VOD HBO" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2016/02/film-the-amazing-spider-man-2-2014.jpg.webp",The Amazing Spider-Man 2 
 https://stream.hownetwork.xyz/xxx/amazing-spider-man-2-2014-bluray_X_f0c30052/26/480.m3u8
 https://stream.hownetwork.xyz/xxx/amazing-spider-man-2-2014-bluray/10/480.m3u8
 https://hls2.dewanonton.online/vultr/pXBAKacymiohx/hls-stream.m3u8
 
-#EXTINF:-1 type="" group-title"VOD HBO"  tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-3-2013.jpg.webp",Iron Man 3 (2013)
+#EXTINF:-1 type="" group-title"VOD HBO" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-3-2013.jpg.webp",Iron Man 3 
 https://stream.hownetwork.xyz/xxx/iron-man-3-2013-bluray_X_949313d3/26/480.m3u8
 https://hls2.dewanonton.online/vultr/MiiRLwvhdFmWy/hls-stream.m3u8
 
 #EXTINF:-1 type="" group-title="VOD HBO" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2016/05/film-thor-2-dark-world-2013.jpg.webp",Thor: The Dark World (2013)
 https://hls2.dewanonton.online/vultr/aZybxywdcAoeB/hls-stream.m3u8
 
-#EXTINF:-1 type="" group-title="VOD HBO"  tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/02/film-the-avengers-2012.jpg.webp",The Avengers (2012)
+#EXTINF:-1 type="" group-title="VOD HBO" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/02/film-the-avengers-2012.jpg.webp",The Avengers (2012)
 https://stream.hownetwork.xyz/xxx/the-avengers-2012-bluray_X_c2e4973c/26/480.m3u8
 https://hls2.dewanonton.online/vultr/xqYwWXqFvLRDl/hls-stream.m3u8
 
