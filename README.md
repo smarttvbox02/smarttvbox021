@@ -951,10 +951,6 @@ https://stream.hownetwork.xyz/xxx/amazing-spider-man-2-2014-bluray_X_f0c30052/26
 https://stream.hownetwork.xyz/xxx/amazing-spider-man-2-2014-bluray/10/480.m3u8
 https://hls2.dewanonton.online/vultr/pXBAKacymiohx/hls-stream.m3u8
 
-#EXTINF:-1 type="" group-title"VOD HBO" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2016/01/film-iron-man-3-2013.jpg.webp",Iron Man 3 
-https://stream.hownetwork.xyz/xxx/iron-man-3-2013-bluray_X_949313d3/26/480.m3u8
-https://hls2.dewanonton.online/vultr/MiiRLwvhdFmWy/hls-stream.m3u8
-
 #EXTINF:-1 type="" group-title="VOD HBO" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2016/05/film-thor-2-dark-world-2013.jpg.webp",Thor: The Dark World (2013)
 https://hls2.dewanonton.online/vultr/aZybxywdcAoeB/hls-stream.m3u8
 
