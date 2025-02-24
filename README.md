@@ -1,5 +1,7 @@
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",LIVE ONLY
-https://www.dropbox.com/scl/fi/pvfwsu2lq0ownj1y5wnmf/my-iptv.mp4?rlkey=giknybduqth14gfgamykaswvu&st=yjt37rm4&dl=1
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+https://fhlsport111.fas41m2.xyz/token-dBd5zriWLPSG6TAuxPY6yGmAlMOAginjayX7xKhKRDb64ridHUFdDoovqR1LW05JBCeIxTNhkA%3D%3Da/cfall/s6/v3b/9r4r65n8nUE0pUZ6Yl9mYJVlYzScp3ElMJ0hozI0/plyvivo/muf09im080bapilesevi/chunklist.m3u8
+#https://www.dropbox.com/scl/fi/pvfwsu2lq0ownj1y5wnmf/my-iptv.mp4?rlkey=giknybduqth14gfgamykaswvu&st=yjt37rm4&dl=1
 
 #EXTINF:-1 group-title=">>⚽LIVE SPORTS⚽ <<" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",LIVE ONLY
 https://www.dropbox.com/scl/fi/pvfwsu2lq0ownj1y5wnmf/my-iptv.mp4?rlkey=giknybduqth14gfgamykaswvu&st=yjt37rm4&dl=1
