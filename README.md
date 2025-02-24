@@ -926,141 +926,188 @@ https://hadeh.pitoyoabdi.workers.dev/saringan/Pencet%20Sana%20Pencet%20Sini%20(1
 
 ===================================================================================================================================================
 
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yny0E5DaepPQAluPSXj4nsCEW6l.jpg" tvg-name="Dukun (2018)" ,Dukun (2018)
-https://ktpremium.com:443/movie/A0112/8544/509121.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-0SAlZfQGdDM/YMc9w_br0JI/AAAAAAAALzg/fl9MhhT1nEwLmnoq8A3215MahCYdhxWqgCLcBGAsYHQ/s16000/Sumpahan%2BOrang%2BPutih.jpg" tvg-name="Sumpahan Orang Putih (2021) " ,Sumpahan Orang Putih (2021)
-https://ktpremium.com:443/movie/A0112/8544/512249.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNArdjDF13BsiClhMX5XeXXYpVU.jpg" tvg-name="Hantu Air (2012)" ,Hantu Air (2012)
-https://ktpremium.com:443/movie/A0112/8544/513697.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BODNjYjg4MDYtY2Q0YS00ZDBlLWIzYzItMjdiYjZmMzQwOWFiXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" tvg-name="Soal Hati (2000)" ,Soal Hati (2000)
-https://ktpremium.com:443/movie/A0112/8544/513794.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFiNTVlZWItYzViNy00NTkxLWI2MWUtZDcyMWM5YzhhYzg5XkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg" tvg-name="Soalnya Siapa? (2002)" ,Soalnya Siapa? (2002)
-https://ktpremium.com:443/movie/A0112/8544/513795.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xVTpWaQXSZojsfMbzJ7PyJgRSd.jpg" tvg-name="Tentang Dia (2005)" ,Tentang Dia (2005)
-https://ktpremium.com:443/movie/A0112/8544/513797.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac2UyNOIJa4EP6lxtUpJXdEwoB0.jpg" tvg-name="Senario Pemburu Emas Yamashita (2006)" ,Senario Pemburu Emas Yamashita (2006)
-https://ktpremium.com:443/movie/A0112/8544/515246.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80tF4DIsEJSxbfEhDrAxrPhlqtc.jpg" tvg-name="Senario The Movie Episode 1 (2008)" ,Senario The Movie Episode 1 (2008)
-https://ktpremium.com:443/movie/A0112/8544/515247.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="http://3.bp.blogspot.com/_--k65o4zbKg/SVSv5rtKr_I/AAAAAAAAADU/JlscZYY77So/w1200-h630-p-k-no-nu/Ghazal+Untuk+Rabiah.jpg" tvg-name="Ghazal Untuk Rabiah (1997)" ,Ghazal Untuk Rabiah (1997)
-https://ktpremium.com:443/movie/A0112/8544/515248.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnzWT8B3yIfKxFlLH3STOZP5T5.jpg" tvg-name="Senario The Movie Episode 2 Beach Boys (2009)" ,Senario The Movie Episode 2 Beach Boys (2009)
-https://ktpremium.com:443/movie/A0112/8544/515258.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1h7TbApRuVEUNd8mUCy5Ez3GAFf.jpg" tvg-name="Senario The Movie: Ops Pocot (2011)" ,Senario The Movie: Ops Pocot (2011)
-https://ktpremium.com:443/movie/A0112/8544/515259.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://www.rancangantivi.com/wp-content/uploads/2021/01/rindu-atok-819x1024.jpg" tvg-name="Rindu Atok (2021)" ,Rindu Atok (2021)
-https://ktpremium.com:443/movie/A0112/8544/515264.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JsOrZqRdmskTyxr52qf9qy43O.jpg" tvg-name="Sabar Ini Ujian (2020)" ,Sabar Ini Ujian (2020)
-https://ktpremium.com:443/movie/A0112/8544/515265.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yI7i2ZAXbce5hVeudpMszld1yJw.jpg" tvg-name="Senario Asam Garam (2010)" ,Senario Asam Garam (2010)
-https://ktpremium.com:443/movie/A0112/8544/515268.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg3NzAwYWUtM2NmMC00NjhlLTllOTEtMTZjMDkyZGNlN2RjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_QL75_UY281_CR1,0,190,281_.jpg" tvg-name="Papadom (2009)" ,Papadom (2009)
-https://ktpremium.com:443/movie/A0112/8544/515287.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTJhMmRiOTAtODE2OC00ZjM5LWEwYjgtNjhjYjcwOTY2ZTJkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjkwMDM5MTQ@._V1_FMjpg_UX1000_.jpg" tvg-name="Papadom 2 (2013)" ,Papadom 2 (2013)
-https://ktpremium.com:443/movie/A0112/8544/515288.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghbfCjRQEd6iRJBnBKhdcxGNFk6.jpg" tvg-name="Devil on Top (2021)[NO SUB]" ,Devil on Top (2021)[NO SUB]
-https://ktpremium.com:443/movie/A0112/8544/515514.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60MtV1IT1DOycZRajZOHu9WwaYC.jpg" tvg-name="Jodoh Syaitan (2020)" ,Jodoh Syaitan (2020)
-https://ktpremium.com:443/movie/A0112/8544/515654.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mU4eDkX5KvTMJP67YrZJdgViZie.jpg" tvg-name="Sembunyi: Amukan Azazil (2013)" ,Sembunyi: Amukan Azazil (2013)
-https://ktpremium.com:443/movie/A0112/8544/515868.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XssONH4zhRldiG3HHt2WH8xInr.jpg" tvg-name="Mr. Hurt (2017)" ,Mr. Hurt (2017)
-https://ktpremium.com:443/movie/A0112/8544/515872.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KNY1cOhJaK1IayK2MXZ90PGJLj.jpg" tvg-name="44 Hari Bangkitnya Pocong(2021)" ,44 Hari Bangkitnya Pocong(2021)
-https://ktpremium.com:443/movie/A0112/8544/515934.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8tsHaa2xqcCDsMZIZxFEGWR8QF.jpg" tvg-name="Man Laksa (2006)" ,Man Laksa (2006)
-https://ktpremium.com:443/movie/A0112/8544/526350.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-4VygbasdPjg/YM2ko0uf_uI/AAAAAAAAEWg/BarZSKO9grkLa9pANT_1yrAcj4U3UUsMACLcBGAsYHQ/s1454/Telefilem%2BSumpahan%2BOrang%2BPutih%2BAstro%2BCitra.jpg" tvg-name="SOP(2021 )" ,SOP(2021 )
-https://ktpremium.com:443/movie/A0112/8544/537493.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsga7envgXY4SbvtoL7Q03j9dqY.jpg" tvg-name="Kuba Guling Karipap Pusing (2021)[NOSUB]" ,Kuba Guling Karipap Pusing (2021)[NOSUB]
-https://ktpremium.com:443/movie/A0112/8544/538063.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-GfuxiGRX6n0/YPQSUD3H-FI/AAAAAAAAMC0/mzPcpjqEyxgXse7Te3SzoJ2gSqYL8eXxQCLcBGAsYHQ/s16000/Sebelum%2BPulang.jpg" tvg-name="Sebelum Pulang (2021)" ,Sebelum Pulang (2021)
-https://ktpremium.com:443/movie/A0112/8544/538066.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lu7sNI1GAkcwyxJXTjWiDHqvroA.jpg" tvg-name="Estet (2010)" ,Estet (2010)
-https://ktpremium.com:443/movie/A0112/8544/539142.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p41cQbtsak1uY2pf5fDzXZLoFLw.jpg" tvg-name="Eggnoid (2019)" ,Eggnoid (2019)
-https://ktpremium.com:443/movie/A0112/8544/539143.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2E2N2JjOGEtZmVjNi00ZmYyLWExNzUtNTIxMTM1NDhlNDhiXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg" tvg-name="Hanya Aku Cinta Kau Seorang (2012)" ,Hanya Aku Cinta Kau Seorang (2012)
-https://ktpremium.com:443/movie/A0112/8544/539144.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-nCZ86Gk-kPg/YPwep1XAFoI/AAAAAAAAMEc/zpA3u7MTGlQQUQcjUwIuB_t9xyaq-pQ9wCLcBGAsYHQ/s16000/Syurga%2BTanpa%2BDosa.jpg" tvg-name="Syurga Tanpa Dosa (2021)" ,Syurga Tanpa Dosa (2021)
-https://ktpremium.com:443/movie/A0112/8544/539145.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUaeW3Cki7BWFJZytT6iXFGFO35.jpg" tvg-name="Delen (2021)[NOSUB]" ,Delen (2021)[NOSUB]
-https://ktpremium.com:443/movie/A0112/8544/539146.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neO0c69wGECyhx7XSUyDFXGgvAX.jpg" tvg-name="Ghibah (2021)[BM]" ,Ghibah (2021)[BM]
-https://ktpremium.com:443/movie/A0112/8544/539160.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72Xk4cjiKy74AINaJ6T0HhRulLz.jpg" tvg-name="Calon Bini (2019)" ,Calon Bini (2019)
-https://ktpremium.com:443/movie/A0112/8544/539173.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-1kYwhUJXfps/YMx1fYep_wI/AAAAAAAAL0c/BH8JbuUO9Kg2zycJlStSEkZW9V61ARarwCLcBGAsYHQ/s16000/Keluarga%2BInstafamous.jpg" tvg-name="Instafamous (2020)" ,Instafamous (2020)
-https://ktpremium.com:443/movie/A0112/8544/539174.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8KmlACEzpnksB416agWtJfejDn.jpg" tvg-name="Lihat Boleh, Pegang Jangan (2010)" ,Lihat Boleh, Pegang Jangan (2010)
-https://ktpremium.com:443/movie/A0112/8544/539175.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KWjS3xfjGKUiPQ8SQCx1KQGBPg.jpg" tvg-name="Si Manis Jembatan Ancol (2019)" ,Si Manis Jembatan Ancol (2019)
-https://ktpremium.com:443/movie/A0112/8544/539176.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2ASnKKkB7uHhDPGP1yMJ9ql9Dp.jpg" tvg-name="The Buskers(2019)" ,The Buskers(2019)
-https://ktpremium.com:443/movie/A0112/8544/539450.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B8NkCTwSqsGGlWtLpPXabsJ8M3.jpg" tvg-name="Balistik (2014)" ,Balistik (2014)
-https://ktpremium.com:443/movie/A0112/8544/540136.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mNj678xHBgHepGjNBJI6TTon4m.jpg" tvg-name="Misteri Dilaila (2019)" ,Misteri Dilaila (2019)
-https://ktpremium.com:443/movie/A0112/8544/540139.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRrCtUmieLvjDwwMEyBNuB7HpaZ.jpg" tvg-name="Mana Mau Lari (2014)" ,Mana Mau Lari (2014)
-https://ktpremium.com:443/movie/A0112/8544/541364.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-TAOMjOIgE7g/YOcISlUX7JI/AAAAAAAANcM/5-UiPeSSt8os1w8zKv8f6o6Hi00aqp9iACLcBGAsYHQ/s610/rujuk_001.jpg" tvg-name="Rujuk (2021)" ,Rujuk (2021)
-https://ktpremium.com:443/movie/A0112/8544/541365.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzirDRNA3JH7TjjhEMRz5QN8rAx.jpg" tvg-name="Rumah Dara (2010)" ,Rumah Dara (2010)
-https://ktpremium.com:443/movie/A0112/8544/542053.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-R-yy_Lp5ZkU/YRfUb_Ob8aI/AAAAAAAAMJ0/dp1xO9MHdAM800vb0OGDRrn_CfB1u6QsQCLcBGAsYHQ/s16000/Kain%2BKafan%2BBerbisik.jpg" tvg-name="Kain Kafan Berbisik (2021)" ,Kain Kafan Berbisik (2021)
-https://ktpremium.com:443/movie/A0112/8544/542073.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RrxQErJUeVH76YTP9DaceRarcQ.jpg" tvg-name="Aruna dan Lidahnya (2018)" ,Aruna dan Lidahnya (2018)
-https://ktpremium.com:443/movie/A0112/8544/542202.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKVP3tAEhCvtJoHqsbXOaXYg3Ly.jpg" tvg-name="Balada Sepasang Kekasih Gila (2021)" ,Balada Sepasang Kekasih Gila (2021)
-https://ktpremium.com:443/movie/A0112/8544/542203.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzAQlkcndVQgSZktxc7djp1A1lx.jpg" tvg-name="Mama Mama Jagoan (2018)" ,Mama Mama Jagoan (2018)
-https://ktpremium.com:443/movie/A0112/8544/542204.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmqkOPZY7IpteyIrbbqCYKRkktu.jpg" tvg-name="Mendadak Kaya (2019)" ,Mendadak Kaya (2019)
-https://ktpremium.com:443/movie/A0112/8544/542205.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmM4YzZkZGUtZTAwZS00Yjk1LTk2MTAtMWRmYjYyZGIyYTRhXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_.jpg" tvg-name="#Move On Aja (2019)" ,#Move On Aja (2019)
-https://ktpremium.com:443/movie/A0112/8544/542206.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://1.bp.blogspot.com/-6YV5M_nh-7o/YE9Ccdsl-KI/AAAAAAAALTQ/u4f4glRzjT4azp2qvSqdoLNcOVa1yu0AwCLcBGAsYHQ/s16000/My%2BFuture%2BHusband.jpg" tvg-name="My Future Husband  (2021)" ,My Future Husband  (2021)
-https://ktpremium.com:443/movie/A0112/8544/542207.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cL8Uc8Ub6U6WcMAz9U12n7XQ2Ed.jpg" tvg-name="Oh Baby! (2008)" ,Oh Baby! (2008)
-https://ktpremium.com:443/movie/A0112/8544/542208.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxiDlS5tKpuPHHl4eOLgJCdTqU6.jpg" tvg-name="Pariban : Idola Dari Tanah Jawa (2019)" ,Pariban : Idola Dari Tanah Jawa (2019)
-https://ktpremium.com:443/movie/A0112/8544/542209.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwBWBRt1f44Mggm8ynmBvibQUgt.jpg" tvg-name="Roman Picisan (2010)" ,Roman Picisan (2010)
-https://ktpremium.com:443/movie/A0112/8544/542210.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLlGIbXhDOIWF8u2Ro0VbDwiY2s.jpg" tvg-name="Satu Suro (2019)" ,Satu Suro (2019)
-https://ktpremium.com:443/movie/A0112/8544/542211.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xmRH5TQCImTpZNwr1tZvZ2p0tK.jpg" tvg-name="Tuju Tuju(2021)" ,Tuju Tuju(2021)
-https://ktpremium.com:443/movie/A0112/8544/542212.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vg4uaIoq9de5yby9PqtLVtRM4fJ.jpg" tvg-name="Dimsum Martabak (2018)" ,Dimsum Martabak (2018)
-https://ktpremium.com:443/movie/A0112/8544/542269.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSSc8nWFR1Sz99gnVmGQKaQ8Ww0.jpg" tvg-name="Jelita Sejuba (2018)" ,Jelita Sejuba (2018)
-https://ktpremium.com:443/movie/A0112/8544/542270.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yZHTENK5N6WeHcVmStnz6Ftmgm.jpg" tvg-name="Marriage (2021)" ,Marriage (2021)
-https://ktpremium.com:443/movie/A0112/8544/542271.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEse2ohDZZCYlQNpsaxsgGVd4Wi.jpg" tvg-name="Pesan di Balik Awan (2021)" ,Pesan di Balik Awan (2021)
-https://ktpremium.com:443/movie/A0112/8544/542272.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSmJrx26NLttonxQmO3hvjHa1gF.jpg" tvg-name="Risen (2021)" ,Risen (2021)
-https://ktpremium.com:443/movie/A0112/8544/542273.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n9L8dJZtqWHqnq9fhQ8eGClBusA.jpg" tvg-name="1 Lawan Satu (2013)" ,1 Lawan Satu (2013)
-https://ktpremium.com:443/movie/A0112/8544/549687.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vODgo45z5Rd2V0IJFTvgrfkT7g4.jpg" tvg-name="Mangkujiwo (2020)" ,Mangkujiwo (2020)
-https://ktpremium.com:443/movie/A0112/8544/550667.mkv
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yC73WhX4lWVFeiSrHKrliRdmjeY.jpg" tvg-name="Janji Zehan (2018)" ,Janji Zehan (2018)
-https://ktpremium.com:443/movie/A0112/8544/583260.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqc5Fhg4F8dba41GPAnSTsRIc8z.jpg" tvg-name="Reunion Z (2018)" ,Reunion Z (2018)
-https://ktpremium.com:443/movie/A0112/8544/586668.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIqXypRTQMFe6N1g95Pe7UA5Ckp.jpg" tvg-name="Arwah Kuntilanak Duyung (2011)" ,Arwah Kuntilanak Duyung (2011)
-https://ktpremium.com:443/movie/A0112/8544/592351.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bdR9FyARlWJk1SFXcnF8l3HtnoF.jpg" tvg-name="Keranda Kuntilanak (2011)" ,Keranda Kuntilanak (2011)
-https://ktpremium.com:443/movie/A0112/8544/592352.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eE6P6BkgwuJQ0VEKZiJdqaM47tf.jpg" tvg-name="Kuntilanak Beranak (2009)" ,Kuntilanak Beranak (2009)
-https://ktpremium.com:443/movie/A0112/8544/592353.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zErAEcE3JAZniC10S6cyqLjjnsS.jpg" tvg-name="Pocong vs Kuntilanak (2008)" ,Pocong vs Kuntilanak (2008)
-https://ktpremium.com:443/movie/A0112/8544/592354.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Q1NmFhYjctY2MwMi00ZDU0LWFlYzQtNTkyOGNjODA3ZjBkXkEyXkFqcGdeQXVyMDM3MzU0Ng@@._V1_.jpg" tvg-name="Aku, Kau dan Dia (2012)" ,Aku, Kau dan Dia (2012)
-https://ktpremium.com:443/movie/A0112/8544/594990.mp4
-#EXTINF:-1 group-title="VOD LOKAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkcKmLEkFmBb6yRyR5hFC2xScpP.jpg" tvg-name="Janin (2020)" ,Janin (2020)
-https://ktpremium.com:443/movie/A0112/8544/596266.mp4
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041229X0-portrait.jpg",The Super Mario Bros. Movie 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccf4698050003d7e0e1b7695a6454f7f:b9865f7d2152b176ac241166517e4aec
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6566fd56d940521074eac1e7_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040878X0-portrait.jpg",Dungeons & Dragons: Honor Among Thieves 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9256c2319bee1155eb1ab05ddb2848c:e9940878b41a3be09407bf86111fc3c1
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64cbd7dcd940521074dc3623_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040442X0-portrait.jpg",Shazam! Fury Of The Gods 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=170bb91139d6de563658bb4902db9492:fdbd71bb5164009ba1f924bb91bbc521
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64532a79d940521074d0e71b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040640X0-portrait.jpg",Scream Vi 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=671a3fc7b55dcb56f8c66ed8eaad141e:962953b30ed281c5b40eca0078466df0
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012e17d940521074e137bd_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040423X0-portrait.jpg",Khun Pan 3 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e080e8d17a75b68c171bafed250c617e:e2666c16aaa10cc855a580ff0d39a633
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040436X0-portrait.jpg",The Weeknd: Live At Sofi Stadium 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=626e2f639f995fb4622bf4cc23fca4e5:c51ea0657317aa01e5513c601b18b8ed
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64564331d940521074d1329a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041082X0-portrait.jpg",Cocaine Bear 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02f26648b3f951a7fdef85f737299e6a:aea7f4643c7b98d76fcae03e198dec1b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65452a2cd940521074e799ca_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040443X0-portrait.jpg",War Zone: Bear Grylls Meets President Zelenskyy 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8236b774c756a2b9b2c791a970ab7305:3edf7f7049b0fb5ebbb1ed1f77d315ac
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6453259bd940521074d0e6a3_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040333X0-portrait.jpg",Magic Mike'S Last Dance 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65be40852d44ba852db6264d66a79cd7:54a86402886d6e0d45d5e563edf08395
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6470b5b4d940521074d3ad30_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040285X0-portrait.jpg",All That Breathes 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da7954f870d56992b55af368f401976:7fad2d7f2c64a81bf46883e1eea7e66a
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6406dabad940521074c9c1ce_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041088X0-portrait.jpg",American Pain 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f58b11a488f7f5f30540ff994b300db8:1fdc9fb3da5d0fa5ac91a8771f6b6a77
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/650e6b22d940521074e27616_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040517X0-portrait.jpg",80 For Brady 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1aff956d4b7a35b96796a924be279fd3:921a9e776c3bc895852f97c4d7dd5fff
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64ddf8a9d940521074dde8cb_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041047X0-portrait.jpg",Knock At The Cabin 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f432456c5e58e45013d1ba2ea0f860e:6df575acb28196ecdaba6d55bff7e852
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6545177fd940521074e797ec_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041228X0-portrait.jpg",Baby Ruby 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d82776d50a48edf49594b46d56a0787:60a71e0a05ce61d647ecad0e37c70b61
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/654545a9d940521074e79c83_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041270X0-portrait.jpg",When You Finish Saving The World 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2bf82e3adcb49f58faebb28ee1e3df7:16c705cbb4a9cc307836aa1faa937729
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6545601ad940521074e79f3b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040265X0-portrait.jpg",Mummies 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c446b9fe09cf1153a0143b09485e2170:bcd75dc517b3678ee3f634ca2cbf3697
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/640687cad940521074c9b9f9_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040233X0-portrait.jpg",House Party 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5eca074d2c6e430e4fee5544973ecca:c9863fba861904a40b2b9285e83105ea
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f5fd48d940521074c8292d_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039083X0-portrait.jpg",The Offering 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af7b6b433d0063a06f61c525b1e69a92:7f827a202d6b476d2dc451836381cf0b
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63f30896d940521074c7e1e3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041291X0-portrait.jpg",The Ringleader: The Case Of The Bling Ring 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6979fdf856afc2c97816f2070b1bee97:50062d58cd80a5f5b377fa0037d618de
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6516a967d940521074e33b6b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040437X1-portrait.jpg",Babylon 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dc6d1e91bc36abd53dd21f9fce3fa25:452a8841eedbc4ac17597fb7010f79fd
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa69ead940521074d911a6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040904X0-portrait.jpg",M3Gan 2023
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86576a103454a1c26c739a2ea8b2b38b:9e86fb8545f9c1aa555c7c9bee027471
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012f6fd940521074e137e1_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039482X0-portrait.jpg",Lizzo: Live In Concert 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e2b0e16d670a1c1960f3192878c27d1:1d717d6394c6b7df61df8cebf76f010d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321e38d940521074cdccb7_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041081X0-portrait.jpg",Christmas Carole 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1091b16af5f5f18f543a3e8ddd43fb54:51c0950b03fe827787f705bbd9befe23
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6545259bd940521074e7994e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040408X0-portrait.jpg",Puss In Boots: The Last Wish 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=153abc2316da6cbac563da3385fb52a4:d2c1db89ec43fd5bb8ce047a10847fde
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa5d9fd940521074d9106a_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039203X0-portrait.jpg",A Hollywood Christmas 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=178866894bde8ac5d0bc3a32c69812a5:b82b3593894e987d2682997548aa47d5
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fe89d940521074e79563_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040411X0-portrait.jpg",Violent Night 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4cfebfdec23629a10f58e6b4f5fee14:dce778a9b9d00d3b90d8d6fba3d79259
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65450736d940521074e79643_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041225X0-portrait.jpg",Dolly Parton’S Mountain Magic Christmas 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c314bdf37d72ee5994bbfa8aeb208d36:7092f9234298039e3ba77a57c9ba17ed
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65454744d940521074e79cb3_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040194X0-portrait.jpg",Tom And Jerry: Snowman'S Land 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c147967dee0910abb50cd6e4f7475f5e:28f4f1307372b4ff53ff4b9f91ce3951
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455beb3d940521074d12528_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039450X0-portrait.jpg",Love, Lizzo 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adea58414fa6fea36decd84397760eb1:70e145eb62725108e9e1f6f5526364e9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64321955d940521074cdcc2e_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039201X0-portrait.jpg",Holiday Harmony 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6e41bbb9df34f6f0d97a765f255fca:a002eb929fdf1080b636e70e35edbbaa
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fffdd940521074e79589_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039204X0-portrait.jpg",A Christmas Mystery 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80649c1872ac570001a73731b598dcf6:ff35df2e733e949370ac2ac4371df2f9
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fad7d940521074e79500_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040515X0-portrait.jpg",The Fabelmans 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c16c1647d9406c6f84f06f0fbeb04a2b:2a1edcd261957c85236cd360b66ea0e7
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64c37444d940521074db6dc6_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041083X0-portrait.jpg",Prancer: A Christmas Tale 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cba534ad663fe6cfde5dd341e0b7fe6:024b6a3908a0cef99770563fd0c70af8
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65452708d940521074e79974_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039274X0-portrait.jpg",The Travelog: Hyoyeon & Sunny In Qatar 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dffbce17cef9345eaebdaf245f155b0:5dc68edcaf3aec5489b2562489e9327d
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63914ccad940521074beb2da_hbovodhd/dash0/IDN_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040901X0-portrait.jpg",A Waltons' Thanksgiving 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ca0d834e235268a2cb541d1a4f3cf19:cd5d3975665848549855556203b1a865
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/650e623bd940521074e2753b_hbovodhd/dash0/IDN_DOLBY_index.mpd
+ 
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/040406X0-portrait.jpg",She Said 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b7eda64587b2bdd5393e1187c53b4b1:b76273f23b2ba6a47385211df7e37b6e
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64fb2e8bd940521074e0a73f_hbovodhd/dash0/IDN_DOLBY_index.mpd
+
+#EXTINF:-1 group-title="VOD HBO " tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039202X0-portrait.jpg",A Christmas Story Christmas 2022
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3773be80ee90e014f918f65cd2a7b464:6693b72f37320ab6f27ff7a507f217e6
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6544fd1ed940521074e7953f_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
