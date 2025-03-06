@@ -7,27 +7,19 @@
 
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="🇮🇩 NASIONAL 🇮🇩",RCTI HD
-https://zozotv.xyz:443/live/zotv744/zxy086/47.ts
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
 
 #EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="🇮🇩 NASIONAL 🇮🇩",MNC TV
-https://zozotv.xyz:443/live/zotv744/zxy086/49.ts
- 
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
  
 
 #EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="🇮🇩 NASIONAL 🇮🇩",GTV
-[https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-https://zozotv.xyz:443/live/zotv744/zxy086/48.ts
-
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
  
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩"tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
-https://zozotv.xyz:443/live/zotv744/zxy086/2203.ts
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR INDI
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
