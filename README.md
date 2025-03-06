@@ -1,53 +1,29 @@
 
 ==================================================================================================
-#EXTINF:0 tvg-id="MNCTV.id" group-title="RCTI+" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg",MNC TV (R+)
+#EXTINF:0 tvg-id="RCTI.id" group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI (R+)
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+#EXTINF:0 tvg-id="MNCTV.id" group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg",MNC TV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:0 tvg-id="GTV.id" group-title="RCTI+" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV (R+)
+#EXTINF:0 tvg-id="GTV.id" group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:0 tvg-id="INews.id" group-title="RCTI+" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS (R+)
+#EXTINF:0 tvg-id="INews.id" group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-
-
-
-
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-l.png" group-title="🇮🇩 NASIONAL 🇮🇩",RCTI HD
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
-
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="🇮🇩 NASIONAL 🇮🇩",MNC TV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
- 
-
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-l.png" group-title="🇮🇩 NASIONAL 🇮🇩",GTV
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
- 
-
-
-#EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/952/49952-SNAPSHOT-l.png",iNews
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
 
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR INDI
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR vidio
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/1080p/v-1080p-1737284868_316308670000.webm?hdntl=exp=1737615178~acl=/vp9/205_stream.mpd](https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/205/primary/1080p/v-1080p-1737284868_316308670000.webm?hdntl=exp=1737615178~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~id=160887842~data=hdntl~hmac=0ca992c37beffb3d26383803f950203acb6591cb5b2ebdd410d851463ccf544b
-
-
- 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="🇮🇩 NASIONAL 🇮🇩",INDOSIAR fta
-https://mantul.biz.id:443/inetwork/gayanet12/60.ts 
- 
 #EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="🇮🇩 NASIONAL 🇮🇩",SCTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
