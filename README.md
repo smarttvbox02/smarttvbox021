@@ -33,18 +33,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/2560px-Moji_blue.svg.png" group-title="🇮🇩 NASIONAL 🇮🇩"catchup="", Moji2
-https://zozotv.xyz:443/live/zotv744/zxy086/475.ts
+
 #EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/LJ54PbT/mentaritv-big-copy.png" group-title="🇮🇩 NASIONAL 🇮🇩", MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
  
 
 #EXTINF:-1 group-title="🇮🇩 NASIONAL 🇮🇩" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png", Trans7 
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/35
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
  
 #EXTINF:-1 tvg-id="TransTV.id"  tvg-logo="https://i.ibb.co/48nTMzT/transtv.png" group-title="🇮🇩 NASIONAL 🇮🇩",TransTV HD
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/929
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
  
  
  
@@ -52,7 +53,7 @@ https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/929
  
  
  
-#EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="🇮🇩 NASIONAL 🇮🇩", ANTV
+
  
  
 #EXTINF:-1 group-title="" tvg-logo="" tvg-logo="https://i.ibb.co/YjTJ1zY/antv-big-copy.png" group-title="🇮🇩 NASIONAL 🇮🇩", ANTV hd
